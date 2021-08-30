@@ -1,1 +1,1 @@
-![](https://github.com/codetombomb/codetombomb/blob/master/contact.png?raw=true)
+<img src="https://github.com/codetombomb/codetombomb/blob/master/contact.png?raw=true" alt="CodeTomBomb Beetlejuice advertisement" height="50%"/>
