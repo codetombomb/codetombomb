@@ -1,1 +1,1 @@
-<!-- <img src="https://github.com/codetombomb/codetombomb/blob/master/contact.png?raw=true" alt="CodeTomBomb Beetlejuice advertisement"/> -->
+<img src="https://github.com/codetombomb/codetombomb/blob/master/contact.png?raw=true" alt="CodeTomBomb Beetlejuice advertisement"/>
